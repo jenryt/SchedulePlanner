@@ -17,5 +17,5 @@ The following link is to the website for planner.
 https://jenryt.github.io/SchedulePlanner/
 
 The following images are some snapshots of the site.
-Assets/img/Screenshot 2023-03-19 at 9.06.58 PM.png
-Assets/img/Screenshot 2023-03-19 at 9.09.37 PM.png
+<img width="1424" alt="Screenshot 2023-03-19 at 9 06 58 PM" src="https://user-images.githubusercontent.com/116051329/226246730-be897cb8-bbe3-4fa8-a4ed-33bdb6481c63.png">
+<img width="1426" alt="Screenshot 2023-03-19 at 9 09 37 PM" src="https://user-images.githubusercontent.com/116051329/226246741-68227eea-674b-4fcc-99d8-beb1e559e98c.png">
