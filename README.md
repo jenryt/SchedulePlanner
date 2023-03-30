@@ -1,6 +1,6 @@
 # SchedulePlanner
 
-- As a developer, I want to create a daily schedule that allow users to utilize the save event tool in hourly manner and help users to manage their daily paln.
+- As a developer, I want to create a daily schedule that allow users to utilize the save event tool in hourly manner and help users to manage their daily plan.
 
 ## Instruction
 
