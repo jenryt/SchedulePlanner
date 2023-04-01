@@ -1,6 +1,6 @@
-# SchedulePlanner
+# airPLAN SchedulePlanner
 
-- As a developer, I want to create a daily schedule that allow users to utilize the save event tool in hourly manner and help users to manage their daily plan.
+- airPLAN is a schedule planner aiming on helping workers to tackle their busy schedule. airPLAN help users to start a day as early as 9AM and accompany the users all the way to 6PM. Uses can input and save their daily plan. Moreover, the color coded interface help users to easily locate the current ongoing schedule hour.
 
 ## Instruction
 
